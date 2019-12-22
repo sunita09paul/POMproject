@@ -8,7 +8,7 @@ public class logaction extends Baseclass2{
 	
 	public void login() {
 		loginloc.getemail().sendKeys("akshata.tsol+101@gmail.com");
-		loginloc.getpwd().sendKeys("654321");
+		loginloc.getpwd().sendKeys("dfkjdfhdskjfeyre");
 		loginloc.getsubmitbtn().click();
 	}
 	}
